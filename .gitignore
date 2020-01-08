@@ -9,7 +9,6 @@
 .history
 .svn/
 flutter_export_environment.sh
-pubspec.lock
 Flutter.podspec
 
 # IntelliJ related
